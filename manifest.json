@@ -1,7 +1,8 @@
 {
   "name": "Zendesk VRN Validator",
   "author": {
-    "name": "Headout"
+    "name": "Headout",
+    "email": "vivek.rao@headout.com"
   },
   "defaultLocale": "en",
   "private": true,
