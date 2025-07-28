@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "Vendor VRN Validator",
-    "description": "Validates Vendor Reference Numbers against regex rules."
+    "name": "Zendesk VRN Validator",
+    "description": "Validates Vendor Reference Numbers against regex rules for selected vendors."
   }
 }
