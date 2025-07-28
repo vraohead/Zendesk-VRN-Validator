@@ -1,6 +1,8 @@
 {
   "name": "Zendesk VRN Validator",
-  "author": "Headout",
+  "author": {
+    "name": "Headout"
+  },
   "defaultLocale": "en",
   "private": true,
   "location": {
