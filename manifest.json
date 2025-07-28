@@ -6,8 +6,10 @@
   "defaultLocale": "en",
   "private": true,
   "location": {
-    "ticket_sidebar": {
-      "url": "assets/index.html"
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/index.html"
+      }
     }
   },
   "version": "1.0",
